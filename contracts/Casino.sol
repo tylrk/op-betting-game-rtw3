@@ -107,4 +107,4 @@ contract Casino {
 
   }  // function reveal
 
-}   // contract Casino
+}   // contract Casino address: 0x83072640F6693c3D879061303B18986a813C6027
